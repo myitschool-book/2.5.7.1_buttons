@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Buttons</string>
+    <string name="enter">Ввести</string>
+    <string name="cancel">Отменить</string>
+    <string name="quit">Выход</string>
+    <string name="text">Текст</string>
+    <string name="input">Вводите текст сюда</string>
+</resources>
